@@ -10,6 +10,7 @@ exclude_from_nav: false
     * [Introductory Jupyter Notebook]({{ site.baseurl }}/data/notes/intro.ipynb)
 * [The "Notebook" Notebook]({{ site.baseurl }}/data/notes/notebooks.ipynb)
 * [Variables and Expressions]({{ site.baseurl }}/data/notes/variables_and_expressions.ipynb)
+* [Intro to Sequences: Strings, Lists, and Tuples]({{ site.baseurl }}/data/notes/sequences.ipynb)
 
 {% comment %}
 * [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 

@@ -7,9 +7,13 @@ exclude_from_nav: false
 ---
 
 * Course Setup
+<a data-toggle="collapse" data-target="#css">(Click to expand/hide)</a>
+<div markdown="1" id = "css" class = "collapse" style = "margin:0px">
+- Instructions 
     * Sign up for your zyBook at http://zybooks.com using your Eastern e-mail address. The zyBook code can be found in the syllabus.
     * Sign up for Piazza using your Eastern e-mail address. You will be getting an e-mail with more information shortly.
-    * Install the necessary software for your personal computer (instructions under Course Information)    
+    * Install the necessary software for your personal computer (instructions under Course Information)   
+</div> 
 <hr>
 * Chapter 1 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 09/06/2019)
 * Chapter 2 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 09/11/2019)
