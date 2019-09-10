@@ -17,7 +17,7 @@ exclude_from_nav: false
 <hr>
 * Chapter 1 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 09/06/2019)
 * Chapter 2 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 09/11/2019)
-  
+* Chapter 3 zyBook Participation and Challenge Activities (Due: Monday, 09/16/2019)
 {% comment %}
 * [Assignment #1]({{ site.baseurl }}/data/hw/Assignment1.pdf) (Due: Friday, 9/7/18)
 * [Assignment #2]({{ site.baseurl }}/data/hw/Assignment2.pdf) (Due: Monday, 9/10/18)
