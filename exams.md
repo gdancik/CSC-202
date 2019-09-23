@@ -3,10 +3,10 @@ layout: page
 title: Exams 
 full_title: Exam Information
 permalink: /exams/
-exclude_from_nav: true
+exclude_from_nav: false
 order: 4
 ---
+* [Python Assessment Practice]({{ site.baseurl }}/data/exams/assessmentPractice.ipynb)
 {% comment %}
-* [Exam I Practice]({{ site.baseurl }}/data/exams/ExamIPractice.pdf)
 * [Exam II Practice]({{ site.baseurl }}/data/exams/ExamIIPractice.pdf)
 {% endcomment %}
