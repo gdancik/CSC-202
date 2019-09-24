@@ -13,6 +13,7 @@ exclude_from_nav: false
 * [Intro to Sequences: Strings, Lists, and Tuples]({{ site.baseurl }}/data/notes/sequences.ipynb)
 * [Branching]({{ site.baseurl }}/data/notes/branching.ipynb)
 * [Loops]({{ site.baseurl }}/data/notes/loops.ipynb)
+* [Functions]({{ site.baseurl }}/data/notes/functions.ipynb)
 
 {% comment %}
 * [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
