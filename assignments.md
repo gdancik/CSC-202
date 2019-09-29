@@ -19,8 +19,9 @@ exclude_from_nav: false
 * Chapter 3 zyBook Participation and Challenge Activities (Due: Monday, 09/16/2019)
 * [Sign up for Twitter Developer Account]({{ site.baseurl }}/data/hw/Twitter.pdf)
 * Chapter 4 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 09/18/2019)
-<hr style = "height:1px; background-color:red;">
 * Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 09/25/2019)
+<hr style = "height:1px; background-color:red;">
+* Chapter 6 and 7 zyBook Participation and Challenge Activities (Due: Monday, 10/07/2019)
 {% comment %}
 * [Assignment #1]({{ site.baseurl }}/data/hw/Assignment1.pdf) (Due: Friday, 9/7/18)
 * [Assignment #2]({{ site.baseurl }}/data/hw/Assignment2.pdf) (Due: Monday, 9/10/18)
