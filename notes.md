@@ -14,6 +14,7 @@ exclude_from_nav: false
 * [Branching]({{ site.baseurl }}/data/notes/branching.ipynb)
 * [Loops]({{ site.baseurl }}/data/notes/loops.ipynb)
 * [Functions]({{ site.baseurl }}/data/notes/functions.ipynb)
+* [List Comprhension and Dictionaries]({{ site.baseurl }}/data/notes/list_comprehension_and_dictionaries.ipynb)
 
 {% comment %}
 * [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
