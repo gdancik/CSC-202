@@ -15,6 +15,7 @@ exclude_from_nav: false
 * [Loops]({{ site.baseurl }}/data/notes/loops.ipynb)
 * [Functions]({{ site.baseurl }}/data/notes/functions.ipynb)
 * [List Comprhension and Dictionaries]({{ site.baseurl }}/data/notes/list_comprehension_and_dictionaries.ipynb)
+* [Natural Language Processing with TextBlob]({{ site.baseurl }}/data/notes/nlp.ipynb)
 
 {% comment %}
 * [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
