@@ -16,9 +16,9 @@ exclude_from_nav: false
 * [Functions]({{ site.baseurl }}/data/notes/functions.ipynb)
 * [List Comprhension and Dictionaries]({{ site.baseurl }}/data/notes/list_comprehension_and_dictionaries.ipynb)
 * [Natural Language Processing with TextBlob]({{ site.baseurl }}/data/notes/nlp.ipynb)
+* [Natural Language Processing with Spacy]({{ site.baseurl }}/data/notes/spacy.ipynb)
 
 {% comment %}
 * [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
 {% endcomment %}
     
-
