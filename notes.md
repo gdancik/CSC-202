@@ -20,6 +20,12 @@ exclude_from_nav: false
 * Mining Twitter Data
     * [Twitter Test]({{ site.baseurl }}/data/notes/twitter_test.ipynb)
     * [credentials.py]({{ site.baseurl }}/data/notes/credentials.py)
+    * [Twitter Notebook]({{ site.baseurl }}/data/notes/twitter.ipynb)
+    * Twitter Data (only needed if you do not have a Developer Account)
+        * [user.txt]({{ site.baseurl }}/data/notes/user.txt)
+        * [results.txt]({{ site.baseurl }}/data/notes/results.txt)
+        * [trends_available.txt]({{ site.baseurl }}/data/notes/trends_available.txt)
+        * [trends_results.txt]({{ site.baseurl }}/data/notes/trends_results.txt)
 
 {% comment %}
 * [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
