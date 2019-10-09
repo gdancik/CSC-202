@@ -21,8 +21,8 @@ exclude_from_nav: false
 * Chapter 4 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 09/18/2019)
 * Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 09/25/2019)
 <hr style = "height:1px; background-color:red;">
-* Chapter 6 and 7 zyBook Participation and Challenge Activities (Due: Monday, 10/07/2019)
-* [Lab 8: NLP]({{ site.baseurl }}/data/hw/lab_nlp.ipynb) (Due: Monday, 10/14/19)
+* Chapter 6 and 7 zyBook Participation and Challenge Activities (Due: <del>Monday, 10/07/2019</del><br>Friday, 10/11/2019)
+* [Lab 8: NLP]({{ site.baseurl }}/data/hw/lab_nlp.ipynb) (Due: Monday, 10/14/2019)
 {% comment %}
 * [Assignment #2]({{ site.baseurl }}/data/hw/Assignment2.pdf) (Due: Monday, 9/10/18)
 
