@@ -26,6 +26,7 @@ exclude_from_nav: false
         * [results.txt]({{ site.baseurl }}/data/notes/results.txt)
         * [trends_available.txt]({{ site.baseurl }}/data/notes/trends_available.txt)
         * [trends_results.txt]({{ site.baseurl }}/data/notes/trends_results.txt)
+* [Visualizing Maps with Folium]({{ site.baseurl }}/data/notes/maps.ipynb)
 
 {% comment %}
 * [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
