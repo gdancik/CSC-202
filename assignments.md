@@ -23,6 +23,11 @@ exclude_from_nav: false
 <hr style = "height:1px; background-color:red;">
 * Chapter 6 and 7 zyBook Participation and Challenge Activities (Due: <del>Monday, 10/07/2019</del><br>Friday, 10/11/2019)
 * [Lab 8: NLP]({{ site.baseurl }}/data/hw/lab_nlp.ipynb) (Due: Monday, 10/14/2019)
+* [Lab 9: Twitter/Maps]({{ site.baseurl }}/data/hw/twitter_lab.pdf) (Due: Fridday, 10/18/2019)
+    * For those without a developer account, you can load data from the following files:
+        * [Eastern.txt]({{ site.baseurl }}/data/hw/Eastern.txt)
+        * [columbus.txt]({{ site.baseurl }}/data/hw/columbus.txt)
+
 {% comment %}
 * [Assignment #2]({{ site.baseurl }}/data/hw/Assignment2.pdf) (Due: Monday, 9/10/18)
 
