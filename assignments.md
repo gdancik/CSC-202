@@ -20,13 +20,14 @@ exclude_from_nav: false
 * [Sign up for Twitter Developer Account]({{ site.baseurl }}/data/hw/Twitter.pdf)
 * Chapter 4 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 09/18/2019)
 * Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 09/25/2019)
-<hr style = "height:1px; background-color:red;">
 * Chapter 6 and 7 zyBook Participation and Challenge Activities (Due: <del>Monday, 10/07/2019</del><br>Friday, 10/11/2019)
 * [Lab 8: NLP]({{ site.baseurl }}/data/hw/lab_nlp.ipynb) (Due: Monday, 10/14/2019)
-* [Lab 9: Twitter/Maps]({{ site.baseurl }}/data/hw/twitter_lab.pdf) (Due: Fridday, 10/18/2019)
+* [Lab 9: Twitter/Maps]({{ site.baseurl }}/data/hw/twitter_lab.pdf) (Due: Friday, 10/18/2019)
     * For those without a developer account, you can load data from the following files:
         * [Eastern.txt]({{ site.baseurl }}/data/hw/Eastern.txt)
         * [columbus.txt]({{ site.baseurl }}/data/hw/columbus.txt)
+<hr style = "height:1px; background-color:red;">
+* [Lab 10: Watson Assistant]({{ site.baseurl }}/data/hw/Lab10.pdf) (Due: Wednesday, 10/23/2019)
 
 {% comment %}
 * [Assignment #2]({{ site.baseurl }}/data/hw/Assignment2.pdf) (Due: Monday, 9/10/18)
