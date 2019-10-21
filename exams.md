@@ -7,7 +7,7 @@ exclude_from_nav: false
 order: 4
 ---
 * [Python Assessment Practice]({{ site.baseurl }}/data/exams/assessmentPractice.ipynb)
-* [NLP Project]({{ site.baseurl }}/data/exams/nlp_project.pdf)
+* [NLP Project]({{ site.baseurl }}/data/exams/nlp_project.pdf) (Due: Wednesday, 10/30/2019, submit through [Blackboard](http://easternct.blackboard.com))
 {% comment %}
 * [Exam II Practice]({{ site.baseurl }}/data/exams/ExamIIPractice.pdf)
 {% endcomment %}
