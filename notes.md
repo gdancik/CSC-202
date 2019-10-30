@@ -28,6 +28,8 @@ exclude_from_nav: false
         * [trends_results.txt]({{ site.baseurl }}/data/notes/trends_results.txt)
 * [Visualizing Maps with Folium]({{ site.baseurl }}/data/notes/maps.ipynb)
 * [Speech to Text]({{ site.baseurl }}/data/notes/SpeechToText.ipynb)
+* [Classification overview]({{ site.baseurl }}/data/notes/Classification.pdf)
+    * [kNN Notebook]({{ site.baseurl }}/data/notes/knn.ipynb)
 
 {% comment %}
 * [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
