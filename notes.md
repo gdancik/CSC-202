@@ -31,6 +31,8 @@ exclude_from_nav: false
 * [Classification overview]({{ site.baseurl }}/data/notes/Classification.pdf)
     * [kNN Notebook]({{ site.baseurl }}/data/notes/knn.ipynb)
     * [kNN and MNIST Notebook]({{ site.baseurl }}/data/notes/knn-mnist.ipynb)
+* [Neural Network overview]({{ site.baseurl }}/data/notes/ANN.pdf)
+    * [kNN Notebook]({{ site.baseurl }}/data/notes/mlp.ipynb)
 
 {% comment %}
 * [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
