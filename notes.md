@@ -33,6 +33,7 @@ exclude_from_nav: false
     * [kNN and MNIST Notebook]({{ site.baseurl }}/data/notes/knn-mnist.ipynb)
 * [Neural Network overview]({{ site.baseurl }}/data/notes/ANN.pdf)
     * [Multilayer Perceptron Notebook]({{ site.baseurl }}/data/notes/mlp.ipynb)
+    * [Tensorflow]({{ site.baseurl }}/data/notes/tensorflow.ipynb)
 
 {% comment %}
 * [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
