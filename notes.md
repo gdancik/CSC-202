@@ -34,7 +34,9 @@ exclude_from_nav: false
 * [Neural Network overview]({{ site.baseurl }}/data/notes/ANN.pdf)
     * [Multilayer Perceptron Notebook]({{ site.baseurl }}/data/notes/mlp.ipynb)
     * [Tensorflow]({{ site.baseurl }}/data/notes/tensorflow.ipynb)
-
+    * [CNN]({{ site.baseurl }}/data/notes/cnn.ipynb)
+        * [cnn_mnist_trained.h5]({{ site.baseurl }}/data/notes/cnn_mnist_trained.h5) 
+        * [cnn_mnist_trained_unscaled.h5]({{ site.baseurl }}/data/notes/cnn_mnist_trained_unscaled.h5) 
 {% comment %}
 * [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
 {% endcomment %}
