@@ -37,6 +37,7 @@ exclude_from_nav: false
     * [CNN]({{ site.baseurl }}/data/notes/cnn.ipynb)
         * [cnn_mnist_trained.h5]({{ site.baseurl }}/data/notes/cnn_mnist_trained.h5) 
         * [cnn_mnist_trained_unscaled.h5]({{ site.baseurl }}/data/notes/cnn_mnist_trained_unscaled.h5) 
+* [Ethical Issues in Machine Intelligence]({{ site.baseurl }}/data/notes/ethics.pdf)
 {% comment %}
 * [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
 {% endcomment %}
