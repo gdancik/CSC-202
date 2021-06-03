@@ -13,6 +13,7 @@ exclude_from_nav: false
 * [Intro to Sequences: Strings, Lists, and Tuples]({{ site.baseurl }}/data/notes/sequences.ipynb)
 * [Branching]({{ site.baseurl }}/data/notes/branching.ipynb)
 * [Loops]({{ site.baseurl }}/data/notes/loops.ipynb)
+{% comment %}
 * [Functions]({{ site.baseurl }}/data/notes/functions.ipynb)
 * [List Comprhension and Dictionaries]({{ site.baseurl }}/data/notes/list_comprehension_and_dictionaries.ipynb)
 * [Natural Language Processing with TextBlob]({{ site.baseurl }}/data/notes/nlp.ipynb)
@@ -39,6 +40,5 @@ exclude_from_nav: false
         * [cnn_mnist_trained_unscaled.h5]({{ site.baseurl }}/data/notes/cnn_mnist_trained_unscaled.h5) 
 * [Ethical Issues in Machine Intelligence]({{ site.baseurl }}/data/notes/ethics.pdf)
 * [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
-{% comment %}
 {% endcomment %}
     
