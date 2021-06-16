@@ -13,11 +13,11 @@ exclude_from_nav: false
 * [Intro to Sequences: Strings, Lists, and Tuples]({{ site.baseurl }}/data/notes/sequences.ipynb)
 * [Branching]({{ site.baseurl }}/data/notes/branching.ipynb)
 * [Loops]({{ site.baseurl }}/data/notes/loops.ipynb)
-{% comment %}
 * [Functions]({{ site.baseurl }}/data/notes/functions.ipynb)
 * [List Comprhension and Dictionaries]({{ site.baseurl }}/data/notes/list_comprehension_and_dictionaries.ipynb)
 * [Natural Language Processing with TextBlob]({{ site.baseurl }}/data/notes/nlp.ipynb)
 * [Natural Language Processing with Spacy]({{ site.baseurl }}/data/notes/spacy.ipynb)
+{% comment %}
 * Mining Twitter Data
     * [Twitter Test]({{ site.baseurl }}/data/notes/twitter_test.ipynb)
     * [credentials.py]({{ site.baseurl }}/data/notes/credentials.py)
