@@ -14,9 +14,9 @@ exclude_from_nav: false
 * [Branching]({{ site.baseurl }}/data/notes/branching.ipynb)
 * [Loops]({{ site.baseurl }}/data/notes/loops.ipynb)
 * [Threshold Example]({{ site.baseurl }}/data/notes/threshold_example.ipynb)
-{% comment %}
 * [Functions]({{ site.baseurl }}/data/notes/functions.ipynb)
 * [List Comprhension and Dictionaries]({{ site.baseurl }}/data/notes/list_comprehension_and_dictionaries.ipynb)
+{% comment %}
 * [Natural Language Processing with TextBlob]({{ site.baseurl }}/data/notes/nlp.ipynb)
 * [Natural Language Processing with Spacy]({{ site.baseurl }}/data/notes/spacy.ipynb)
 * Mining Twitter Data
