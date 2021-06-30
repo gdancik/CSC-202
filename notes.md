@@ -16,9 +16,9 @@ exclude_from_nav: false
 * [Threshold Example]({{ site.baseurl }}/data/notes/threshold_example.ipynb)
 * [Functions]({{ site.baseurl }}/data/notes/functions.ipynb)
 * [List Comprehension and Dictionaries]({{ site.baseurl }}/data/notes/list_comprehension_and_dictionaries.ipynb)
-{% comment %}
 * [Natural Language Processing with TextBlob]({{ site.baseurl }}/data/notes/nlp.ipynb)
 * [Natural Language Processing with Spacy]({{ site.baseurl }}/data/notes/spacy.ipynb)
+{% comment %}
 * Mining Twitter Data
     * [Twitter Test]({{ site.baseurl }}/data/notes/twitter_test.ipynb)
     * [credentials.py]({{ site.baseurl }}/data/notes/credentials.py)
