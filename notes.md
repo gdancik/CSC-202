@@ -19,9 +19,6 @@ exclude_from_nav: false
 * [Natural Language Processing with TextBlob]({{ site.baseurl }}/data/notes/nlp.ipynb)
 * [Natural Language Processing with Spacy]({{ site.baseurl }}/data/notes/spacy.ipynb)
 * Mining Twitter Data
-{% comment %}
-    * [Twitter Test]({{ site.baseurl }}/data/notes/twitter_test.ipynb)
-{% endcomment %}
     * [credentials.py]({{ site.baseurl }}/data/notes/credentials.py)
     * [Twitter Notebook]({{ site.baseurl }}/data/notes/twitter.ipynb)
     * Twitter Data (only needed if you do not have a Developer Account)
@@ -45,3 +42,6 @@ exclude_from_nav: false
 * [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
 {% endcomment %}
     
+{% comment %}
+    * [Twitter Test]({{ site.baseurl }}/data/notes/twitter_test.ipynb)
+{% endcomment %}
