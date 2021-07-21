@@ -29,9 +29,11 @@ exclude_from_nav: false
 * [Visualizing Maps with Folium]({{ site.baseurl }}/data/notes/maps.ipynb)
 {% comment %}
 * [Speech to Text]({{ site.baseurl }}/data/notes/SpeechToText.ipynb)
+{% endcomment %}
 * [Classification overview]({{ site.baseurl }}/data/notes/Classification.pdf)
     * [kNN Notebook]({{ site.baseurl }}/data/notes/knn.ipynb)
     * [kNN and MNIST Notebook]({{ site.baseurl }}/data/notes/knn-mnist.ipynb)
+{% comment %}
 * [Neural Network overview]({{ site.baseurl }}/data/notes/ANN.pdf)
     * [Multilayer Perceptron Notebook]({{ site.baseurl }}/data/notes/mlp.ipynb)
     * [Tensorflow]({{ site.baseurl }}/data/notes/tensorflow.ipynb)
