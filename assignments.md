@@ -29,7 +29,9 @@ exclude_from_nav: false
         * [Eastern.txt]({{ site.baseurl }}/data/hw/Eastern.txt)
         * [columbus.txt]({{ site.baseurl }}/data/hw/columbus.txt)
 * [Lab 10: Watson Assistant]({{ site.baseurl }}/data/hw/Lab10.pdf) (Due: Wednesday, 10/23/2019)
-* [Lab 11: kNN]({{ site.baseurl }}/data/hw/lab-knn.ipynb) (Due: Monday, 11/11/2019)
+{% endcomment %}
+* [Lab 9: kNN]({{ site.baseurl }}/data/hw/lab-knn.ipynb) (Due: Monday, 11/11/2019)
+{% comment %}
 * [Lab 12: MLP]({{ site.baseurl }}/data/hw/mlp-lab.ipynb) (Due: Monday, 11/18/2019)
 
 * [Assignment #2]({{ site.baseurl }}/data/hw/Assignment2.pdf) (Due: Monday, 9/10/18)
