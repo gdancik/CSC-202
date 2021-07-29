@@ -30,16 +30,16 @@ exclude_from_nav: false
 * [Classification overview]({{ site.baseurl }}/data/notes/Classification.pdf)
     * [kNN Notebook]({{ site.baseurl }}/data/notes/knn.ipynb)
     * [kNN and MNIST Notebook]({{ site.baseurl }}/data/notes/knn-mnist.ipynb)
-{% comment %}
-* [Speech to Text]({{ site.baseurl }}/data/notes/SpeechToText.ipynb)
+* [Ethical Issues in Machine Intelligence]({{ site.baseurl }}/data/notes/ethics.pdf)
 * [Neural Network overview]({{ site.baseurl }}/data/notes/ANN.pdf)
     * [Multilayer Perceptron Notebook]({{ site.baseurl }}/data/notes/mlp.ipynb)
+* [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
+{% comment %}
+* [Speech to Text]({{ site.baseurl }}/data/notes/SpeechToText.ipynb)
     * [Tensorflow]({{ site.baseurl }}/data/notes/tensorflow.ipynb)
     * [CNN]({{ site.baseurl }}/data/notes/cnn.ipynb)
         * [cnn_mnist_trained.h5]({{ site.baseurl }}/data/notes/cnn_mnist_trained.h5) 
         * [cnn_mnist_trained_unscaled.h5]({{ site.baseurl }}/data/notes/cnn_mnist_trained_unscaled.h5) 
-* [Ethical Issues in Machine Intelligence]({{ site.baseurl }}/data/notes/ethics.pdf)
-* [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
 {% endcomment %}
     
 {% comment %}
