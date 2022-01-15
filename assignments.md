@@ -6,13 +6,17 @@ order: 3
 exclude_from_nav: false 
 ---
 
+{% comment %}
 * Course Setup
 <a data-toggle="collapse" data-target="#css">(Click to expand/hide)</a>
 <div markdown="1" id = "css" class = "collapse" style = "margin:0px">
-- Instructions 
-    * Sign up for your zyBook at http://zybooks.com using your Eastern e-mail address. The zyBook code can be found in the syllabus.
-    * Sign up for Piazza using your Eastern e-mail address. You will be getting an e-mail with more information shortly.
-    * Install the necessary software for your personal computer (instructions under Course Information)   
+{% endcomment %}
+
+* Course Setup 
+    * Sign up for your zyBook at <a href = "https://zybooks.com">https://zybooks.com</a>  using your Eastern e-mail address. The zyBook code can be found in the syllabus.
+    * Sign up for <a href = "https://piazza.com">Piazza</a> using your Eastern e-mail address. You will be getting an e-mail with more information shortly.
+    * Install the Anaconda Individual Distribution on your personal computer by following the instructions under Course Information. You do not need to install any Python modules at this time. 
+{% comment %}
 </div> 
 * Chapter 1 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 09/06/2019)
 * Chapter 2 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 09/11/2019)
@@ -24,7 +28,6 @@ exclude_from_nav: false
 <hr style = "height:1px; background-color:red;">
 * [Lab 8: NLP]({{ site.baseurl }}/data/hw/lab_nlp.ipynb) (Due: Monday, 10/14/2019)
 * [Lab 9: kNN]({{ site.baseurl }}/data/hw/lab-knn.ipynb) (Due: Monday, 11/11/2019)
-{% comment %}
 * [Lab 9: Twitter/Maps]({{ site.baseurl }}/data/hw/twitter_lab.pdf) (Due: Friday, 10/18/2019)
     * For those without a developer account, you can load data from the following files:
         * [Eastern.txt]({{ site.baseurl }}/data/hw/Eastern.txt)

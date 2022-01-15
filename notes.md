@@ -8,6 +8,7 @@ exclude_from_nav: false
 
 * [Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
     * [Introductory Jupyter Notebook]({{ site.baseurl }}/data/notes/intro.ipynb)
+{% comment %}
 * [The "Notebook" Notebook]({{ site.baseurl }}/data/notes/notebooks.ipynb)
 * [Variables and Expressions]({{ site.baseurl }}/data/notes/variables_and_expressions.ipynb)
 * [Intro to Sequences: Strings, Lists, and Tuples]({{ site.baseurl }}/data/notes/sequences.ipynb)
@@ -34,7 +35,6 @@ exclude_from_nav: false
 * [Neural Network overview]({{ site.baseurl }}/data/notes/ANN.pdf)
     * [Multilayer Perceptron Notebook]({{ site.baseurl }}/data/notes/mlp.ipynb)
 * [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
-{% comment %}
 * [Speech to Text]({{ site.baseurl }}/data/notes/SpeechToText.ipynb)
     * [Tensorflow]({{ site.baseurl }}/data/notes/tensorflow.ipynb)
     * [CNN]({{ site.baseurl }}/data/notes/cnn.ipynb)
