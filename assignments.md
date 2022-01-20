@@ -16,9 +16,12 @@ exclude_from_nav: false
     * Sign up for your zyBook at <a href = "https://zybooks.com">https://zybooks.com</a>  using your Eastern e-mail address. The zyBook code can be found in the syllabus.
     * Sign up for <a href = "https://piazza.com">Piazza</a> using your Eastern e-mail address. You will be getting an e-mail with more information shortly.
     * Install the Anaconda Individual Distribution on your personal computer by following the instructions under Course Information. You do not need to install any Python modules at this time. 
+
 {% comment %}
 </div> 
-* Chapter 1 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 09/06/2019)
+{% endcomment %}
+* Chapter 1 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 01/28/2022)
+{% comment %}
 * Chapter 2 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 09/11/2019)
 * Chapter 3 zyBook Participation and Challenge Activities (Due: Monday, 09/16/2019)
 * [Sign up for Twitter Developer Account]({{ site.baseurl }}/data/hw/Twitter.pdf)
