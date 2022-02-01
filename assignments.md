@@ -14,11 +14,11 @@ exclude_from_nav: false
 <li>Install the Anaconda Individual Distribution on your personal computer by following the instructions under Course Information. You do not need to install any Python modules at this time.</li> 
 </ul></ul>
 </div> 
-<hr style = 'height:1px; background-color:maroon'>
 * Chapter 1 zyBook Participation, Challenge Activities, and Labs (Due: Friday, 01/28/2022)
+<hr style = 'height:1px; background-color:maroon'>
 * Chapter 2 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 02/02/2022)
+* Chapter 3 zyBook Participation and Challenge Activities (Due: Wednesday, 02/09/2022)
 {% comment %}
-* Chapter 3 zyBook Participation and Challenge Activities (Due: Monday, 09/16/2019)
 * [Sign up for Twitter Developer Account]({{ site.baseurl }}/data/hw/Twitter.pdf)
 * Chapter 4 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 09/18/2019)
 * Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 09/25/2019)

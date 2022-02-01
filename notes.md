@@ -11,8 +11,8 @@ exclude_from_nav: false
 * [The "Notebook" Notebook]({{ site.baseurl }}/data/notes/notebooks.ipynb)
 * [Variables and Expressions]({{ site.baseurl }}/data/notes/variables_and_expressions.ipynb)
 * [Intro to Sequences: Strings, Lists, and Tuples]({{ site.baseurl }}/data/notes/sequences.ipynb)
-{% comment %}
 * [Branching]({{ site.baseurl }}/data/notes/branching.ipynb)
+{% comment %}
 * [Loops]({{ site.baseurl }}/data/notes/loops.ipynb)
 * [Threshold Example]({{ site.baseurl }}/data/notes/threshold_example.ipynb)
 * [Functions]({{ site.baseurl }}/data/notes/functions.ipynb)
