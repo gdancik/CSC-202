@@ -12,8 +12,8 @@ exclude_from_nav: false
 * [Variables and Expressions]({{ site.baseurl }}/data/notes/variables_and_expressions.ipynb)
 * [Intro to Sequences: Strings, Lists, and Tuples]({{ site.baseurl }}/data/notes/sequences.ipynb)
 * [Branching]({{ site.baseurl }}/data/notes/branching.ipynb)
-{% comment %}
 * [Loops]({{ site.baseurl }}/data/notes/loops.ipynb)
+{% comment %}
 * [Threshold Example]({{ site.baseurl }}/data/notes/threshold_example.ipynb)
 * [Functions]({{ site.baseurl }}/data/notes/functions.ipynb)
 * [List Comprehension and Dictionaries]({{ site.baseurl }}/data/notes/list_comprehension_and_dictionaries.ipynb)
