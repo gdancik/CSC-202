@@ -18,12 +18,12 @@ exclude_from_nav: false
 * Chapter 2 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 02/02/2022)
 * Chapter 3 zyBook Participation and Challenge Activities (Due: Wednesday, 02/09/2022)
 * Chapter 4 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 02/16/2022)
-<hr style = 'height:1px; background-color:maroon'>
 * Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 02/23/2022)(<b>Note</b>: You may not use your grace period for this assignment)
+<hr style = 'height:1px; background-color:maroon'>
+* Chapter 6 and 7 zyBook Participation and Challenge Activities (Due: Friday, 03/11/2022)
 {% comment %}
 * [Sign up for Twitter Developer Account]({{ site.baseurl }}/data/hw/Twitter.pdf)
 * Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 09/25/2019)
-* Chapter 6 and 7 zyBook Participation and Challenge Activities (Due: <del>Monday, 10/07/2019</del><br>Friday, 10/11/2019)
 <hr style = "height:1px; background-color:red;">
 * [Lab 8: NLP]({{ site.baseurl }}/data/hw/lab_nlp.ipynb) (Due: Monday, 10/14/2019)
 * [Lab 9: kNN]({{ site.baseurl }}/data/hw/lab-knn.ipynb) (Due: Monday, 11/11/2019)

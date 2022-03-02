@@ -13,10 +13,9 @@ exclude_from_nav: false
 * [Intro to Sequences: Strings, Lists, and Tuples]({{ site.baseurl }}/data/notes/sequences.ipynb)
 * [Branching]({{ site.baseurl }}/data/notes/branching.ipynb)
 * [Loops]({{ site.baseurl }}/data/notes/loops.ipynb)
-{% comment %}
-* [Threshold Example]({{ site.baseurl }}/data/notes/threshold_example.ipynb)
 * [Functions]({{ site.baseurl }}/data/notes/functions.ipynb)
 * [List Comprehension and Dictionaries]({{ site.baseurl }}/data/notes/list_comprehension_and_dictionaries.ipynb)
+{% comment %}
 * [Natural Language Processing with TextBlob]({{ site.baseurl }}/data/notes/nlp.ipynb)
 * [Natural Language Processing with Spacy]({{ site.baseurl }}/data/notes/spacy.ipynb)
 * Mining Twitter Data
@@ -41,6 +40,7 @@ exclude_from_nav: false
         * [cnn_mnist_trained.h5]({{ site.baseurl }}/data/notes/cnn_mnist_trained.h5) 
         * [cnn_mnist_trained_unscaled.h5]({{ site.baseurl }}/data/notes/cnn_mnist_trained_unscaled.h5) 
 {% endcomment %}
+* [Threshold Example]({{ site.baseurl }}/data/notes/threshold_example.ipynb)
     
 {% comment %}
     * [Twitter Test]({{ site.baseurl }}/data/notes/twitter_test.ipynb)
