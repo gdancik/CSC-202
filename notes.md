@@ -39,8 +39,8 @@ exclude_from_nav: false
     * [CNN]({{ site.baseurl }}/data/notes/cnn.ipynb)
         * [cnn_mnist_trained.h5]({{ site.baseurl }}/data/notes/cnn_mnist_trained.h5) 
         * [cnn_mnist_trained_unscaled.h5]({{ site.baseurl }}/data/notes/cnn_mnist_trained_unscaled.h5) 
-{% endcomment %}
 * [Threshold Example]({{ site.baseurl }}/data/notes/threshold_example.ipynb)
+{% endcomment %}
     
 {% comment %}
     * [Twitter Test]({{ site.baseurl }}/data/notes/twitter_test.ipynb)
