@@ -16,8 +16,8 @@ exclude_from_nav: false
 * [Functions]({{ site.baseurl }}/data/notes/functions.ipynb)
 * [List Comprehension and Dictionaries]({{ site.baseurl }}/data/notes/list_comprehension_and_dictionaries.ipynb)
 * [Natural Language Processing with TextBlob]({{ site.baseurl }}/data/notes/nlp.ipynb)
-{% comment %}
 * [Natural Language Processing with Spacy]({{ site.baseurl }}/data/notes/spacy.ipynb)
+{% comment %}
 * Mining Twitter Data
     * [credentials.py]({{ site.baseurl }}/data/notes/credentials.py)
     * [Twitter Notebook]({{ site.baseurl }}/data/notes/twitter.ipynb)
