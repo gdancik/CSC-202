@@ -21,18 +21,16 @@ exclude_from_nav: false
 * Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 02/23/2022)(<b>Note</b>: You may not use your grace period for this assignment)
 <hr style = 'height:1px; background-color:maroon'>
 * Chapter 6 and 7 zyBook Participation and Challenge Activities (Due: Friday, 03/11/2022)
+* [Sign up for Twitter Developer Account]({{ site.baseurl }}/data/info/Twitter.pdf), and set up your credentials file, and run the Twitter Test Notebook (see the <a href = "../notes/">Notes</a> page). You should be ready to use this in class when we get back from Spring Break. 
+* [Lab 8: NLP]({{ site.baseurl }}/data/hw/lab_nlp.ipynb) (Due: Wednesday, 03/23/2022) (<b>Note</b>: You may not use your grace period for this assignment)
 {% comment %}
-* [Sign up for Twitter Developer Account]({{ site.baseurl }}/data/hw/Twitter.pdf)
-* Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 09/25/2019)
-<hr style = "height:1px; background-color:red;">
-* [Lab 8: NLP]({{ site.baseurl }}/data/hw/lab_nlp.ipynb) (Due: Monday, 10/14/2019)
-* [Lab 9: kNN]({{ site.baseurl }}/data/hw/lab-knn.ipynb) (Due: Monday, 11/11/2019)
-* [Lab 9: Twitter/Maps]({{ site.baseurl }}/data/hw/twitter_lab.pdf) (Due: Friday, 10/18/2019)
+* [Lab 9: kNN]({{ site.baseurl }}/data/hw/lab-knn.ipynb) (Due: Monday, 11/11/2022)
+* [Lab 9: Twitter/Maps]({{ site.baseurl }}/data/hw/twitter_lab.pdf) (Due: Friday, 10/18/2022)
     * For those without a developer account, you can load data from the following files:
         * [Eastern.txt]({{ site.baseurl }}/data/hw/Eastern.txt)
         * [columbus.txt]({{ site.baseurl }}/data/hw/columbus.txt)
-* [Lab 10: Watson Assistant]({{ site.baseurl }}/data/hw/Lab10.pdf) (Due: Wednesday, 10/23/2019)
-* [Lab 12: MLP]({{ site.baseurl }}/data/hw/mlp-lab.ipynb) (Due: Monday, 11/18/2019)
+* [Lab 10: Watson Assistant]({{ site.baseurl }}/data/hw/Lab10.pdf) (Due: Wednesday, 10/23/2022)
+* [Lab 12: MLP]({{ site.baseurl }}/data/hw/mlp-lab.ipynb) (Due: Monday, 11/18/2022)
 
 * [Assignment #2]({{ site.baseurl }}/data/hw/Assignment2.pdf) (Due: Monday, 9/10/18)
 

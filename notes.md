@@ -17,15 +17,10 @@ exclude_from_nav: false
 * [List Comprehension and Dictionaries]({{ site.baseurl }}/data/notes/list_comprehension_and_dictionaries.ipynb)
 * [Natural Language Processing with TextBlob]({{ site.baseurl }}/data/notes/nlp.ipynb)
 * [Natural Language Processing with Spacy]({{ site.baseurl }}/data/notes/spacy.ipynb)
-{% comment %}
 * Mining Twitter Data
     * [credentials.py]({{ site.baseurl }}/data/notes/credentials.py)
-    * [Twitter Notebook]({{ site.baseurl }}/data/notes/twitter.ipynb)
-    * Twitter Data (only needed if you do not have a Developer Account)
-        * [user.txt]({{ site.baseurl }}/data/notes/user.txt)
-        * [results.txt]({{ site.baseurl }}/data/notes/results.txt)
-        * [trends_available.txt]({{ site.baseurl }}/data/notes/trends_available.txt)
-        * [trends_results.txt]({{ site.baseurl }}/data/notes/trends_results.txt)
+    * [Twitter Test Notebook]({{ site.baseurl }}/data/notes/twitter_test.ipynb)
+{% comment %}
 * [Visualizing Maps with Folium]({{ site.baseurl }}/data/notes/maps.ipynb)
 * [Classification overview]({{ site.baseurl }}/data/notes/Classification.pdf)
     * [kNN Notebook]({{ site.baseurl }}/data/notes/knn.ipynb)
