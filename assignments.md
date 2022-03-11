@@ -19,10 +19,10 @@ exclude_from_nav: false
 * Chapter 3 zyBook Participation and Challenge Activities (Due: Wednesday, 02/09/2022)
 * Chapter 4 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 02/16/2022)
 * Chapter 5 zyBook Participation, Challenge Activities, and Labs (Due: Wednesday, 02/23/2022)(<b>Note</b>: You may not use your grace period for this assignment)
-<hr style = 'height:1px; background-color:maroon'>
 * Chapter 6 and 7 zyBook Participation and Challenge Activities (Due: Friday, 03/11/2022)
+<hr style = 'height:1px; background-color:maroon'>
 * [Sign up for Twitter Developer Account]({{ site.baseurl }}/data/info/Twitter.pdf), and set up your credentials file, and run the Twitter Test Notebook (see the <a href = "../notes/">Notes</a> page). You should be ready to use this in class when we get back from Spring Break. 
-* [Lab 8: NLP]({{ site.baseurl }}/data/hw/lab_nlp.ipynb) (Due: Wednesday, 03/23/2022) (<b>Note</b>: You may not use your grace period for this assignment)
+* [Lab 8: NLP]({{ site.baseurl }}/data/hw/lab_nlp.ipynb) (Due: Wednesday, 03/23/2022) (<b>Note</b>: You may not use your grace period for this assignment; submit through [Blackboard](http://easternct.blackboard.com))
 {% comment %}
 * [Lab 9: kNN]({{ site.baseurl }}/data/hw/lab-knn.ipynb) (Due: Monday, 11/11/2022)
 * [Lab 9: Twitter/Maps]({{ site.baseurl }}/data/hw/twitter_lab.pdf) (Due: Friday, 10/18/2022)
