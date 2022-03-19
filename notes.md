@@ -20,6 +20,7 @@ exclude_from_nav: false
 * Mining Twitter Data
     * [credentials.py]({{ site.baseurl }}/data/notes/credentials.py)
     * [Twitter Test Notebook]({{ site.baseurl }}/data/notes/twitter_test.ipynb)
+    * [Twitter Notebook]({{ site.baseurl }}/data/notes/twitter.ipynb)
 {% comment %}
 * [Visualizing Maps with Folium]({{ site.baseurl }}/data/notes/maps.ipynb)
 * [Classification overview]({{ site.baseurl }}/data/notes/Classification.pdf)
