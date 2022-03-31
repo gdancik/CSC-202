@@ -21,11 +21,10 @@ exclude_from_nav: false
     * [credentials.py]({{ site.baseurl }}/data/notes/credentials.py)
     * [Twitter Test Notebook]({{ site.baseurl }}/data/notes/twitter_test.ipynb)
     * [Twitter Notebook]({{ site.baseurl }}/data/notes/twitter.ipynb)
-{% comment %}
-* [Visualizing Maps with Folium]({{ site.baseurl }}/data/notes/maps.ipynb)
 * [Classification overview]({{ site.baseurl }}/data/notes/Classification.pdf)
     * [kNN Notebook]({{ site.baseurl }}/data/notes/knn.ipynb)
     * [kNN and MNIST Notebook]({{ site.baseurl }}/data/notes/knn-mnist.ipynb)
+{% comment %}
 * [Ethical Issues in Machine Intelligence]({{ site.baseurl }}/data/notes/ethics.pdf)
 * [Neural Network overview]({{ site.baseurl }}/data/notes/ANN.pdf)
     * [Multilayer Perceptron Notebook]({{ site.baseurl }}/data/notes/mlp.ipynb)
@@ -39,5 +38,6 @@ exclude_from_nav: false
 {% endcomment %}
     
 {% comment %}
+* [Visualizing Maps with Folium]({{ site.baseurl }}/data/notes/maps.ipynb)
     * [Twitter Test]({{ site.baseurl }}/data/notes/twitter_test.ipynb)
 {% endcomment %}
