@@ -24,6 +24,7 @@ exclude_from_nav: false
 * [Classification overview]({{ site.baseurl }}/data/notes/Classification.pdf)
     * [kNN Notebook]({{ site.baseurl }}/data/notes/knn.ipynb)
     * [kNN and MNIST Notebook]({{ site.baseurl }}/data/notes/knn-mnist.ipynb)
+    * [Recall & Balanced Accuracy]({{ site.baseurl }}/data/notes/Accuracy.pdf)
 {% comment %}
 * [Ethical Issues in Machine Intelligence]({{ site.baseurl }}/data/notes/ethics.pdf)
 * [Neural Network overview]({{ site.baseurl }}/data/notes/ANN.pdf)
