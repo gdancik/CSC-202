@@ -25,10 +25,10 @@ exclude_from_nav: false
     * [kNN Notebook]({{ site.baseurl }}/data/notes/knn.ipynb)
     * [kNN and MNIST Notebook]({{ site.baseurl }}/data/notes/knn-mnist.ipynb)
     * [Recall & Balanced Accuracy]({{ site.baseurl }}/data/notes/Accuracy.pdf)
-{% comment %}
-* [Ethical Issues in Machine Intelligence]({{ site.baseurl }}/data/notes/ethics.pdf)
 * [Neural Network overview]({{ site.baseurl }}/data/notes/ANN.pdf)
     * [Multilayer Perceptron Notebook]({{ site.baseurl }}/data/notes/mlp.ipynb)
+{% comment %}
+* [Ethical Issues in Machine Intelligence]({{ site.baseurl }}/data/notes/ethics.pdf)
 * [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
 * [Speech to Text]({{ site.baseurl }}/data/notes/SpeechToText.ipynb)
     * [Tensorflow]({{ site.baseurl }}/data/notes/tensorflow.ipynb)
