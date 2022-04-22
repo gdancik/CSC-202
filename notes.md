@@ -27,10 +27,11 @@ exclude_from_nav: false
     * [Recall & Balanced Accuracy]({{ site.baseurl }}/data/notes/Accuracy.pdf)
 * [Neural Network overview]({{ site.baseurl }}/data/notes/ANN.pdf)
     * [Multilayer Perceptron Notebook]({{ site.baseurl }}/data/notes/mlp.ipynb)
+* [Speech to Text]({{ site.baseurl }}/data/notes/SpeechToText.ipynb)
+* [IBM Watson Digital Assistant]({{ site.baseurl }}/data/notes/IBM_Watson_Digital_Assistant.pdf)
 {% comment %}
 * [Ethical Issues in Machine Intelligence]({{ site.baseurl }}/data/notes/ethics.pdf)
 * [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
-* [Speech to Text]({{ site.baseurl }}/data/notes/SpeechToText.ipynb)
     * [Tensorflow]({{ site.baseurl }}/data/notes/tensorflow.ipynb)
     * [CNN]({{ site.baseurl }}/data/notes/cnn.ipynb)
         * [cnn_mnist_trained.h5]({{ site.baseurl }}/data/notes/cnn_mnist_trained.h5) 
