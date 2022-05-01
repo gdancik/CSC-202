@@ -24,9 +24,11 @@ exclude_from_nav: false
 * [Lab 8: NLP]({{ site.baseurl }}/data/hw/lab_nlp.ipynb) (Due: Wednesday, 03/23/2022) (<b>Note</b>: You may not use your grace period for this assignment; submit through [Blackboard](http://easternct.blackboard.com))
 * [Lab 9: Twitter]({{ site.baseurl }}/data/hw/twitter_lab.pdf) (Due: Wednesday, 03/30/2022)
 * [Lab 10: kNN]({{ site.baseurl }}/data/hw/lab-knn.ipynb) (Due: Friday, 04/14/2022)
-<hr style = 'height:1px; background-color:maroon'>
 * [Lab 11: MLP]({{ site.baseurl }}/data/hw/mlp-lab.ipynb) (Due: Monday, 04/25/2022) (Note: you may not use your grace period for this assignment)
+
+
 {% comment %}
+<hr style = 'height:1px; background-color:maroon'>
     * For those without a developer account, you can load data from the following files:
         * [Eastern.txt]({{ site.baseurl }}/data/hw/Eastern.txt)
         * [columbus.txt]({{ site.baseurl }}/data/hw/columbus.txt)

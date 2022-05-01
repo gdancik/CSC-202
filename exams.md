@@ -8,10 +8,10 @@ order: 4
 ---
 * [Python Assessment Practice]({{ site.baseurl }}/data/exams/assessmentPractice.ipynb)
 * [NLP Project]({{ site.baseurl }}/data/exams/nlp_project.pdf) (Due: Wednesday, 04/06/2022, submit through [Blackboard](http://easternct.blackboard.com))
+<hr style = "height:1px; background-color:red;">
 * [ML Project]({{ site.baseurl }}/data/exams/ML_project.pdf) (Due: Monday, 05/02/2022, submit through [Blackboard](http://easternct.blackboard.com); You may not use your grace period for this assignment)
     - [Loading MNIST Fashion Data]({{ site.baseurl }}/data/exams/Fashion_MNIST_demo.ipynb) 
     - [Loading CIFAR Data]({{ site.baseurl }}/data/exams/CIFAR_demo.ipynb) 
-<hr style = "height:1px; background-color:red;">
 * [Final Presentation]({{ site.baseurl }}/data/exams/final_presentation.pdf) (Due: Wednesday, 05/11/2022, submitted to [Blackboard](http://easternct.blackboard.com) by 11:00 AM; Perusall questions/comments due by noon on Friday, 05/13/2022 )
 
 {% comment %}

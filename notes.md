@@ -6,6 +6,7 @@ order: 2
 exclude_from_nav: false
 ---
 
+<div id = 'hidden' class = 'hide' markdown="1">
 * [Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
     * [Introductory Jupyter Notebook]({{ site.baseurl }}/data/notes/intro.ipynb)
 * [The "Notebook" Notebook]({{ site.baseurl }}/data/notes/notebooks.ipynb)
@@ -21,6 +22,7 @@ exclude_from_nav: false
     * [credentials.py]({{ site.baseurl }}/data/notes/credentials.py)
     * [Twitter Test Notebook]({{ site.baseurl }}/data/notes/twitter_test.ipynb)
     * [Twitter Notebook]({{ site.baseurl }}/data/notes/twitter.ipynb)
+</div>
 * [Classification overview]({{ site.baseurl }}/data/notes/Classification.pdf)
     * [kNN Notebook]({{ site.baseurl }}/data/notes/knn.ipynb)
     * [kNN and MNIST Notebook]({{ site.baseurl }}/data/notes/knn-mnist.ipynb)
@@ -30,6 +32,19 @@ exclude_from_nav: false
 * [Speech to Text]({{ site.baseurl }}/data/notes/SpeechToText.ipynb)
 * [IBM Watson Digital Assistant]({{ site.baseurl }}/data/notes/IBM_Watson_Digital_Assistant.pdf)
 * [Ethical Issues in Machine Intelligence]({{ site.baseurl }}/data/notes/ethics.pdf)
+
+
+<br><br>
+<center>
+<div id = 'clicker'>
+<a href = '#' style='font-size:120%' onclick = 'viewAll();'>Click to view all notes</a>
+<script>
+function viewAll() {
+    document.getElementById('hidden').classList.remove('hide');
+    document.getElementById('clicker').classList.add('hide');
+    document.getElementsByTagName('ul')[0].style.marginBottom = '0px'
+}
+</script>
 
 
 {% comment %}
