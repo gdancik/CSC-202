@@ -29,8 +29,10 @@ exclude_from_nav: false
     * [Multilayer Perceptron Notebook]({{ site.baseurl }}/data/notes/mlp.ipynb)
 * [Speech to Text]({{ site.baseurl }}/data/notes/SpeechToText.ipynb)
 * [IBM Watson Digital Assistant]({{ site.baseurl }}/data/notes/IBM_Watson_Digital_Assistant.pdf)
-{% comment %}
 * [Ethical Issues in Machine Intelligence]({{ site.baseurl }}/data/notes/ethics.pdf)
+
+
+{% comment %}
 * [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
     * [Tensorflow]({{ site.baseurl }}/data/notes/tensorflow.ipynb)
     * [CNN]({{ site.baseurl }}/data/notes/cnn.ipynb)
