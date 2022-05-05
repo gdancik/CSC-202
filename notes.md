@@ -32,6 +32,7 @@ exclude_from_nav: false
 * [Speech to Text]({{ site.baseurl }}/data/notes/SpeechToText.ipynb)
 * [IBM Watson Digital Assistant]({{ site.baseurl }}/data/notes/IBM_Watson_Digital_Assistant.pdf)
 * [Ethical Issues in Machine Intelligence]({{ site.baseurl }}/data/notes/ethics.pdf)
+* [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
 
 
 <br><br>
@@ -48,7 +49,6 @@ function viewAll() {
 
 
 {% comment %}
-* [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
     * [Tensorflow]({{ site.baseurl }}/data/notes/tensorflow.ipynb)
     * [CNN]({{ site.baseurl }}/data/notes/cnn.ipynb)
         * [cnn_mnist_trained.h5]({{ site.baseurl }}/data/notes/cnn_mnist_trained.h5) 
