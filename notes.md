@@ -10,7 +10,7 @@ exclude_from_nav: false
 * [Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
     * [Introductory Jupyter Notebook]({{ site.baseurl }}/data/notes/intro.ipynb)
 * [The "Notebook" Notebook]({{ site.baseurl }}/data/notes/notebooks.ipynb)
-* [Variables and Expressions]({{ site.baseurl }}/data/notes/variables_and_expressions.ipynb)
+* [Python Basics]({{ site.baseurl }}/data/notes/python_basics.ipynb)
 * [Intro to Sequences: Strings, Lists, and Tuples]({{ site.baseurl }}/data/notes/sequences.ipynb)
 * [Branching]({{ site.baseurl }}/data/notes/branching.ipynb)
 * [Loops]({{ site.baseurl }}/data/notes/loops.ipynb)
