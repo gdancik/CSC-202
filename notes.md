@@ -6,7 +6,7 @@ order: 2
 exclude_from_nav: false
 ---
 
-<div id = 'hidden' class = 'hide' markdown="1">
+<!--<div id = 'hidden' class = 'hide' markdown="1">-->
 * [Course Introduction]({{ site.baseurl }}/data/notes/Intro.pdf)
     * [Introductory Jupyter Notebook]({{ site.baseurl }}/data/notes/intro.ipynb)
 * [The "Notebook" Notebook]({{ site.baseurl }}/data/notes/notebooks.ipynb)
@@ -18,19 +18,23 @@ exclude_from_nav: false
 * [List Comprehension and Dictionaries]({{ site.baseurl }}/data/notes/list_comprehension_and_dictionaries.ipynb)
 * [Natural Language Processing with TextBlob]({{ site.baseurl }}/data/notes/nlp.ipynb)
 * [Natural Language Processing with Spacy]({{ site.baseurl }}/data/notes/spacy.ipynb)
+{% comment %}
 * Mining Twitter Data
     * [credentials.py]({{ site.baseurl }}/data/notes/credentials.py)
     * [Twitter Test Notebook]({{ site.baseurl }}/data/notes/twitter_test.ipynb)
     * [Twitter Notebook]({{ site.baseurl }}/data/notes/twitter.ipynb)
-</div>
+{% endcomment %}
+<!--</div>-->
 * [Classification overview]({{ site.baseurl }}/data/notes/Classification.pdf)
     * [kNN Notebook]({{ site.baseurl }}/data/notes/knn.ipynb)
     * [kNN and MNIST Notebook]({{ site.baseurl }}/data/notes/knn-mnist.ipynb)
     * [Recall & Balanced Accuracy]({{ site.baseurl }}/data/notes/Accuracy.pdf)
 * [Neural Network overview]({{ site.baseurl }}/data/notes/ANN.pdf)
     * [Multilayer Perceptron Notebook]({{ site.baseurl }}/data/notes/mlp.ipynb)
+{% comment %}
 * [Speech to Text]({{ site.baseurl }}/data/notes/SpeechToText.ipynb)
 * [IBM Watson Digital Assistant]({{ site.baseurl }}/data/notes/IBM_Watson_Digital_Assistant.pdf)
+{% endcomment %}
 * [Ethical Issues in Machine Intelligence]({{ site.baseurl }}/data/notes/ethics.pdf)
 * [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
 
