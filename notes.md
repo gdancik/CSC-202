@@ -39,6 +39,7 @@ exclude_from_nav: false
 * [WrapUp]({{ site.baseurl }}/data/notes/Wrapup.pdf) 
 
 
+{% comment %}
 <br><br>
 <center>
 <div id = 'clicker'>
@@ -50,7 +51,7 @@ function viewAll() {
     document.getElementsByTagName('ul')[0].style.marginBottom = '0px'
 }
 </script>
-
+{% endcomment %}
 
 {% comment %}
     * [Tensorflow]({{ site.baseurl }}/data/notes/tensorflow.ipynb)
